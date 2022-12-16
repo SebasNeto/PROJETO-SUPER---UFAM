@@ -7,4 +7,3 @@ No projeto trabalhamos sobre alguns dos principais algoritmos de ordenação e o
 3 - Seleção Direta
 4 - Merge Sort
 5 - Quick Sort
-6 - ContSort 
